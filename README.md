@@ -308,8 +308,28 @@ Although I can't extract further insights directly from the product ID alone, th
 
 ## *Conclusions / Key Findings*
 
-Looking at all analysis and slides that i made, i can assume some valuable informations. In summary, these are:
+After reviewing all the analyses and visualizations, several key insights emerge. In summary, the most valuable takeaways are:
 
 ![insights](./slides_images/slide_5.png)
 
-REFAZEEEER
+You can see the key findings in text, bellow:
+
+**Language as an Indicator: How Review Words Reflect Product Perception**: 
+
+Positive and negative words tend to align with their corresponding word score, confirming that language in reviews reflects the overall sentiment. This correlation opens up opportunities for future analysis focused on interpreting review sentiment based on specific word usage, potentially aiding in automatic review classification or product evaluation.
+
+**When Ratings Don’t Tell the Whole Story: Sales vs. Review Scores**: 
+
+Products rated between 3 and 4 stars generate 2.5 times more sales than those with 5 stars, and 2–3 star products show sales similar to those rated 4–5. This suggests a weak correlation between review scores and sales. Possible reasons include the nature of food products—often purchased out of necessity or habit—or the strong trust consumers place in Amazon, where even a negative first impression may not significantly affect repeat purchases, unlike on smaller or lesser-known platforms.
+
+**Rapid Growth and Seasonal Shifts: Food Sales on the Rise**: 
+
+Annual sales showed steady growth, with a notable spike between 2010 and 2011—possibly driven by stronger marketing or a growing preference for online food shopping. Additionally, from 2008 to 2012, sales peaked between October and December, aligning with holidays like Christmas and New Year's. This seasonal trend wasn’t present in earlier years (1999–2007), indicating that holiday-related food purchases became more common on Amazon in later years.
+
+**Spotlight on Newcomers: High Sales from Recently Introduced Products**: 
+
+Product B007JFMH8M, which appeared only in 2012, demonstrated an exceptional sales spike, surpassing many long-established items. This highlights how new, strategically positioned products can quickly gain traction and market share. If the product IDs were linked to actual product names or categories, this insight could guide data-driven decisions for identifying and investing in promising food trends.
+
+## End
+
+This concludes my project. I'm excite to explore more datasets and amplify my knowledge and critical view on future Data Analysis project!
