@@ -1,4 +1,24 @@
 # Amazon Food Reviews Analysis
+![project_cover with graphics and title](./cover.jpg)
+## *Chapters*
+1. [Introduction](#introduction)
+2. [Dataset Summary](#dataset-summary)
+3. [Data Preparation & Tools](#data-preparation--tools)
+4. [Data Analysis, Key Questions](#data-analysis-key-questions)
+5. [First Question (Sentiment Analysis)](#first-analysis)
+- 5.1. [A1 - Creating](#first-analysis-creating)
+- 5.2. [A1 - Insight](#first-analysis-insight)
+6. [Second Question (Sales per Score)](#second-analysis)
+- 6.1. [A2 - Creating](#second-analysis-creating)
+- 6.2. [A2 - Insight](#second-analysis-insight)
+7. [Third Question (All Time Sales and Patterns)](#third-analysis)
+- 7.1. [A3 - Creating](#third-analysis-creating)
+- 7.2. [A3 - Insight](#third-analysis-insight)
+8. [Fourth Question (Top Products)](#fourth-analysis)
+- 8.1. [A4 - Creating](#fourth-analysis-creating)
+- 8.2. [A4 - Insight](#fourth-analysis-insight)
+9. [Conclusions and Key Findings](#conclusions--key-findings)
+10. [End](#end)
 
 ## *Introduction*
 This projects an exploratory analysis of Amazon food products reviews using **Python** and **Power Bi**. The main goal here is to uncover insights about costumer sentiment, sales trend, and user behavior. All of this based on thousands of real-world product reviews (1999-2012).
@@ -106,7 +126,7 @@ With the data cleaned and prepared, I explored the dataset and formulated a set 
 
 That said, the goal here was to uncover patterns, spark curiosity, and identify interesting stories hidden within the data—treating the process like solving small mysteries through analysis.
 
----
+## First Analysis
 
 ### First Analysis (creating):
 - "What words have good impact in reviews and what words have bad impact in reviews. Those words indicate something about the overall products?"
@@ -169,7 +189,7 @@ So why analyze the connotation of words? This approach helps us identify whether
 
 Finally, we were able to confirm that positive words predominantly appeared in positive reviews—and similarly, negative words were mostly found in negative reviews.
 
----
+## Second Analysis
 
 ### Second Analysis (creating)
 
@@ -223,7 +243,7 @@ Another factor is that Amazon has never been primarily known for food sales. It'
 
 Lastly, as a well-established and trusted platform, Amazon often encourages repeat purchases, even when the initial experience wasn't ideal. This differs from smaller or lesser-known websites, where poor experiences may deter users from returning due to a lack of brand credibility.
 
----
+## Third Analysis
 
 ### Third Analysis (creating)
 
@@ -267,7 +287,7 @@ When looking at monthly sales across all years, the seemingly "random" pattern m
 
 In summary, there was strong overall product growth, with a particularly significant impact in the year 2011.
 
----
+## Fourth Analysis
 
 ### Fourth Analysis (creating)
 
